@@ -1,0 +1,155 @@
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color: #F1F1F1 ;
+  margin-top: 0px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  border-style: outset;
+  border-top-width: 0px;
+  border-bottom-width: 0.5px;
+  background-color: white;
+
+}
+
+#logo {
+  width: 102px;
+  height: 30px;
+  margin-left: 164px;
+  margin-top: 12px;
+}
+
+.input {
+  padding-left: 20px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #F1F1F1;
+  border-radius: 6px;
+  border: none;
+}
+
+input::placeholder {
+  font-size: 1.3em;
+}
+
+.form {
+  align-items: center;
+  justify-content: center;
+  margin-left: 250px;
+  margin-top: 8px;
+}
+
+.headpic {
+  width: 24px;
+  height: 24px;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+.prof {
+  margin-left: 100px;
+}
+
+.middle {
+  background-blend-mode: lighten;
+  display: flex;
+  flex-direction: row;
+  margin-top: 25px;
+}
+
+.vertical1 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 200px;
+}
+
+.story {
+  margin-left: 20px;
+  margin-top: 15px
+  margin-bottom: 20px;
+  margin-right: 1px;
+  border-width: 1px;
+  border-style: solid;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.user {
+  border-width: 50%;
+  width: 70px;
+  height: 70px;
+  margin-top: 15px;
+  margin-left: 15px;
+  border-radius: 50%;
+  border-color: red;
+}
+pre{
+  margin-top:0px;
+}
+.post{
+  border-style: solid;
+  background-color: white;
+  border-radius: 10px;
+  border-width: 1px;
+  margin-top: 20px;
+  margin-left: 20px;
+
+}
+.postfoot{
+  width: 25px;
+  height: 25px;
+}
+#threedots{
+  position: absolute;
+  margin-left:280px;
+  top:230px;
+}
+#prog{
+  position: absolute;
+  top:230px;
+  left:230px;
+}
+.details{
+  margin-top:5px;
+  margin-left:10px;
+}
+hr{
+  margin-bottom: 0px;
+    border-bottom-width: 0px;
+}
+.comments{
+  font-weight:lighter;
+  color: #A2B5BB;
+  margin-left: 10px;
+}
+.emoji{
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  position: absolute;
+  margin-top: 11px;
+  top: 712px;
+}
+.vertical2{
+
+  margin-left: 40px;
+}
+.handles{
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 55px;
+}
+.bluewords{
+  color:#3AB0FF;
+  display:inline-block;
+}
+.vai{
+  position: absolute;
+  top: 135px;
+
+}
